@@ -1,4 +1,4 @@
-# common-dev-tools
+# Common dev tools
 
 My common development tools
 
@@ -39,6 +39,22 @@ Termius isn't a mere SSH client, it's a complete command-line solution.
 **Core Shell**
 
 > Note: The use of the free version is limited
+
+### Screen Record
+
+**ScreenToGif**
+
+🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
+
+- Github: https://github.com/NickeManarin/ScreenToGif/releases
+- Download: https://github.com/NickeManarin/ScreenToGif/releases
+
+> support platfrom: `Windows`
+
+**termtosvg**
+
+Record a terminal session and render an SVG animation on the fly
+
 
 ### VPN
 
