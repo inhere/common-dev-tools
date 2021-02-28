@@ -17,6 +17,8 @@ Terminus is a highly configurable terminal emulator. Integrated SSH client and c
 
 > support platfrom: `macOS` `Windows` `Linux`
 
+**hyper**
+
 ### SSH Client
 
 **Terminus**
