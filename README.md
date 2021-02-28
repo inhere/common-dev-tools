@@ -4,6 +4,10 @@ My common development tools collections
 
 ### Terminal
 
+**iterm2**
+
+- Website: http://iterm2.com/
+
 **Terminus**
 
 Terminus is a highly configurable terminal emulator. Integrated SSH client and connection manager
