@@ -1,6 +1,6 @@
-# Common dev tools
+# common-dev-tools
 
-My common development tools
+My common development tools collections
 
 ### Terminal
 
@@ -17,11 +17,19 @@ Terminus is a highly configurable terminal emulator. Integrated SSH client and c
 
 **Terminus**
 
-Terminus is a highly configurable terminal emulator. Integrated SSH client and connection manager
+(**recommended**)Terminus is a highly configurable terminal emulator. Integrated SSH client and connection manager
 
 - Github: https://github.com/eugeny/terminus
 - Download: https://github.com/eugeny/terminus/releases
-- **recommended**
+
+> support platfrom: `macOS` `Windows` `Linux`
+
+**electerm**
+
+📻Terminal/ssh/sftp client(linux, mac, win)
+
+- Github: https://github.com/electerm/electerm
+- Download: https://github.com/electerm/electerm/releases
 
 > support platfrom: `macOS` `Windows` `Linux`
 
